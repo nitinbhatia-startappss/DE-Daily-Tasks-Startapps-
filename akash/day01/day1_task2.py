@@ -1,9 +1,12 @@
-arr = [1,2,2,3,4,4]
+#Q sort the list based on specific key in dictionary
+# list of dictionaries
+students = [
+    {"name": "Rahul", "age": 21},
+    {"name": "Amit", "age": 19},
+    {"name": "Neha", "age": 22}
+]
 
-result = []
+# sorting list based on 'age' key
+sorted_students = sorted(students, key=lambda x: x["age"])
 
-for num in arr:
-    if num not in result:
-        result.append(num)
-
-print(result)
+print(sorted_students)
