@@ -1,6 +1,5 @@
 import time
 
-
 def log_time(func):
     def wrapper():
         start = time.time()
@@ -16,6 +15,5 @@ def log_time(func):
 def my_function():
     total = sum(range(100))
     print(total)
-
 
 my_function()
