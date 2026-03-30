@@ -23,3 +23,4 @@ pivot = df.pivot_table(
   aggfunc = ['sum','mean','count']
   )
 print(pivot)  
+
