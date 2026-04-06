@@ -53,3 +53,27 @@ Q8 - Find the highest order amount per region, shown alongside every row.
 SELECT *, MAX(amount)
 OVER(PARTITION BY region) AS Highest_Amount
 FROM orders
+
+
+Q9 - Show each orders amount and the difference between that order and the previous order in the same region.
+
+SELECT region, amount,
+LAG(amount) OVER(PARTITION BY region ORDER BY order_date) AS previous_amount,
+amount - LAG(amount) OVER(PARTITION BY region ORDER BY order_date) AS diffrence
+FROM orders
+
+
+Q10 -  find the top 2 orders by amount in each region.
+
+SELECT * FROM(SELECT region, amount,
+RANK() OVER(PARTITION BY region ORDER BY amount DESC) AS rnk
+FROM orders) WHERE rnk <=2
+
+Q11 - Show each customer, their amount, and what percentage their order is of the total region sales.
+
+SELECT customer, amount, region, 
+SUM(amount) OVER(PARTITION BY region) AS total_sales,
+amount*100 / SUM(amount) OVER(PARTITION BY region) AS percentage 
+FROM orders
+
+
