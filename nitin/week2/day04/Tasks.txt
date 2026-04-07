@@ -1,0 +1,24 @@
+ Q1 - What is a database index and how does it improve query performance?
+
+ans:-   A database index is a separate B-Tree data structure built on one or more columns. 
+        Without an index, a query scans every row in the table to find matches. 
+        With an index, the DB can binary-search the B-Tree and jump directly to the matching rows via a pointer. 
+        This reduces lookups from O(n) to O(log n). 
+        The trade-off is that indexes slow down writes since the index must be updated on every INSERT, UPDATE, or DELETE.
+
+
+Q2 - You have a query that is running slow. What is the first tool/command you would use to investigate it?
+
+ans:- I'd use EXPLAIN or EXPLAIN ANALYZE. 
+      EXPLAIN shows the execution plan — access methods, join strategies, index usage, and estimated cost — without running the query. 
+      EXPLAIN ANALYZE actually executes it and shows real timings. 
+      The first thing I look for is a Seq Scan on a large table, which means no index is being used and is usually why the query is slow.
+
+Q3 - Explain the 'C' in ACID (Consistency).
+
+ans:- Consistency means every transaction must take the database from one valid state to another valid state. 
+      "Valid" is defined by rules like NOT NULL, UNIQUE, FOREIGN KEY, and CHECK constraints. 
+      If any rule is violated, the entire transaction is rejected and the DB stays in its previous state. 
+      Unlike the other ACID properties which are purely engine guarantees, 
+      Consistency is partly the developer's responsibility — the DB enforces defined constraints, 
+      but wrong business logic that isn't captured as a constraint won't be caught.
