@@ -1,0 +1,1677 @@
+[
+    {
+        "id": 1,
+        "userId": 19,
+        "date": "2025-09-16",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 1,
+                "price": 340.74
+            },
+            {
+                "productId": 7,
+                "quantity": 1,
+                "price": 611.45
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "userId": 13,
+        "date": "2025-11-03",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 4,
+                "price": 706.08
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "userId": 5,
+        "date": "2025-05-01",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 2,
+                "price": 150.9
+            },
+            {
+                "productId": 5,
+                "quantity": 5,
+                "price": 885.13
+            },
+            {
+                "productId": 8,
+                "quantity": 3,
+                "price": 674.02
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "userId": 16,
+        "date": "2026-01-08",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 1,
+                "price": 437.41
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "userId": 19,
+        "date": "2025-12-04",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 5,
+                "price": 520.21
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "userId": 1,
+        "date": "2025-08-18",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 2,
+                "price": 461.02
+            },
+            {
+                "productId": 9,
+                "quantity": 2,
+                "price": 249.2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "userId": 15,
+        "date": "2025-10-14",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 134.82
+            },
+            {
+                "productId": 9,
+                "quantity": 4,
+                "price": 705.71
+            },
+            {
+                "productId": 8,
+                "quantity": 3,
+                "price": 492.59
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "userId": 4,
+        "date": "2025-08-01",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 5,
+                "price": 254.07
+            },
+            {
+                "productId": 1,
+                "quantity": 4,
+                "price": 443.8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "userId": 2,
+        "date": "2025-12-06",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 5,
+                "price": 340.72
+            },
+            {
+                "productId": 5,
+                "quantity": 4,
+                "price": 538.92
+            },
+            {
+                "productId": 6,
+                "quantity": 5,
+                "price": 986.56
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "userId": 17,
+        "date": "2026-01-07",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 5,
+                "price": 418.54
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "userId": 1,
+        "date": "2025-09-14",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 2,
+                "price": 731.78
+            },
+            {
+                "productId": 4,
+                "quantity": 1,
+                "price": 735.38
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "userId": 7,
+        "date": "2025-10-13",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 2,
+                "price": 826.93
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "userId": 11,
+        "date": "2025-11-04",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 3,
+                "price": 463.73
+            },
+            {
+                "productId": 3,
+                "quantity": 1,
+                "price": 124.05
+            },
+            {
+                "productId": 6,
+                "quantity": 1,
+                "price": 382.39
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "userId": 1,
+        "date": "2025-05-03",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 2,
+                "price": 224.42
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "userId": 8,
+        "date": "2025-12-04",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 5,
+                "price": 991.71
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "userId": 2,
+        "date": "2026-03-16",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 1,
+                "price": 890.02
+            },
+            {
+                "productId": 4,
+                "quantity": 3,
+                "price": 591.72
+            },
+            {
+                "productId": 7,
+                "quantity": 5,
+                "price": 966.98
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "userId": 18,
+        "date": "2025-08-18",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 3,
+                "price": 934.62
+            },
+            {
+                "productId": 2,
+                "quantity": 4,
+                "price": 629.17
+            },
+            {
+                "productId": 9,
+                "quantity": 5,
+                "price": 998.1
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "userId": 18,
+        "date": "2025-09-05",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 2,
+                "price": 101.69
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "userId": 6,
+        "date": "2026-01-14",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 5,
+                "price": 622.12
+            },
+            {
+                "productId": 7,
+                "quantity": 4,
+                "price": 959.21
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "userId": 5,
+        "date": "2026-03-22",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 5,
+                "price": 266.18
+            },
+            {
+                "productId": 5,
+                "quantity": 2,
+                "price": 125.41
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "userId": 14,
+        "date": "2026-02-02",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 2,
+                "price": 651.16
+            },
+            {
+                "productId": 3,
+                "quantity": 4,
+                "price": 414.29
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "userId": 17,
+        "date": "2025-06-29",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 1,
+                "price": 856.69
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "userId": 15,
+        "date": "2025-04-09",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 2,
+                "price": 718.88
+            },
+            {
+                "productId": 5,
+                "quantity": 5,
+                "price": 320.69
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "userId": 7,
+        "date": "2025-12-12",
+        "products": [
+            {
+                "productId": 1,
+                "quantity": 1,
+                "price": 943.83
+            },
+            {
+                "productId": 1,
+                "quantity": 5,
+                "price": 198.84
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "userId": 17,
+        "date": "2025-05-05",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 5,
+                "price": 234.06
+            },
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 734.6
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "userId": 18,
+        "date": "2025-09-27",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 1,
+                "price": 158.58
+            },
+            {
+                "productId": 2,
+                "quantity": 1,
+                "price": 641.48
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "userId": 5,
+        "date": "2025-11-11",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 896.08
+            },
+            {
+                "productId": 2,
+                "quantity": 3,
+                "price": 245.5
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "userId": 12,
+        "date": "2025-05-03",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 3,
+                "price": 721.95
+            },
+            {
+                "productId": 6,
+                "quantity": 4,
+                "price": 148.31
+            },
+            {
+                "productId": 10,
+                "quantity": 5,
+                "price": 772.92
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "userId": 18,
+        "date": "2025-11-29",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 3,
+                "price": 819.47
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "userId": 13,
+        "date": "2025-11-16",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 2,
+                "price": 228.81
+            },
+            {
+                "productId": 4,
+                "quantity": 3,
+                "price": 150.9
+            },
+            {
+                "productId": 5,
+                "quantity": 1,
+                "price": 672.9
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "userId": 19,
+        "date": "2025-08-04",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 4,
+                "price": 443.53
+            },
+            {
+                "productId": 10,
+                "quantity": 1,
+                "price": 642.68
+            },
+            {
+                "productId": 3,
+                "quantity": 3,
+                "price": 654.49
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "userId": 16,
+        "date": "2026-03-11",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 4,
+                "price": 746.74
+            },
+            {
+                "productId": 7,
+                "quantity": 4,
+                "price": 905.6
+            },
+            {
+                "productId": 9,
+                "quantity": 5,
+                "price": 253.74
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "userId": 19,
+        "date": "2026-02-01",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 1,
+                "price": 445.54
+            },
+            {
+                "productId": 1,
+                "quantity": 1,
+                "price": 989.91
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "userId": 2,
+        "date": "2025-09-25",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 2,
+                "price": 860.51
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "userId": 8,
+        "date": "2025-05-06",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 4,
+                "price": 611.95
+            },
+            {
+                "productId": 5,
+                "quantity": 4,
+                "price": 400.56
+            },
+            {
+                "productId": 8,
+                "quantity": 1,
+                "price": 376.65
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "userId": 9,
+        "date": "2025-06-19",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 1,
+                "price": 908.98
+            },
+            {
+                "productId": 6,
+                "quantity": 4,
+                "price": 766.53
+            },
+            {
+                "productId": 9,
+                "quantity": 3,
+                "price": 753.94
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "userId": 17,
+        "date": "2026-01-13",
+        "products": [
+            {
+                "productId": 1,
+                "quantity": 4,
+                "price": 857.92
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "userId": 17,
+        "date": "2025-09-15",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 4,
+                "price": 379.56
+            },
+            {
+                "productId": 9,
+                "quantity": 2,
+                "price": 713.25
+            },
+            {
+                "productId": 2,
+                "quantity": 3,
+                "price": 299.2
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "userId": 1,
+        "date": "2025-04-17",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 2,
+                "price": 194.83
+            },
+            {
+                "productId": 8,
+                "quantity": 3,
+                "price": 169.69
+            },
+            {
+                "productId": 3,
+                "quantity": 1,
+                "price": 631.57
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "userId": 13,
+        "date": "2025-10-15",
+        "products": [
+            {
+                "productId": 1,
+                "quantity": 1,
+                "price": 107.15
+            },
+            {
+                "productId": 6,
+                "quantity": 1,
+                "price": 602.72
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "userId": 3,
+        "date": "2025-12-18",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 5,
+                "price": 828.2
+            },
+            {
+                "productId": 1,
+                "quantity": 2,
+                "price": 659.41
+            },
+            {
+                "productId": 3,
+                "quantity": 4,
+                "price": 964.74
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "userId": 14,
+        "date": "2025-07-23",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 4,
+                "price": 510.79
+            },
+            {
+                "productId": 7,
+                "quantity": 4,
+                "price": 910.14
+            },
+            {
+                "productId": 8,
+                "quantity": 3,
+                "price": 554.73
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "userId": 6,
+        "date": "2025-10-10",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 5,
+                "price": 415.95
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "userId": 8,
+        "date": "2025-12-21",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 2,
+                "price": 674.32
+            },
+            {
+                "productId": 9,
+                "quantity": 3,
+                "price": 777.8
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "userId": 5,
+        "date": "2025-07-01",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 5,
+                "price": 147.98
+            },
+            {
+                "productId": 1,
+                "quantity": 3,
+                "price": 706.2
+            },
+            {
+                "productId": 7,
+                "quantity": 4,
+                "price": 696.71
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "userId": 8,
+        "date": "2026-03-24",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 3,
+                "price": 914.56
+            },
+            {
+                "productId": 5,
+                "quantity": 5,
+                "price": 546.08
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "userId": 10,
+        "date": "2025-07-24",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 4,
+                "price": 555.13
+            },
+            {
+                "productId": 1,
+                "quantity": 1,
+                "price": 539.31
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "userId": 20,
+        "date": "2025-11-07",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 3,
+                "price": 884.09
+            },
+            {
+                "productId": 5,
+                "quantity": 3,
+                "price": 495.94
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "userId": 9,
+        "date": "2025-05-20",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 4,
+                "price": 966.31
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "userId": 13,
+        "date": "2026-01-12",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 3,
+                "price": 521.74
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "userId": 11,
+        "date": "2025-12-29",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 5,
+                "price": 800.17
+            },
+            {
+                "productId": 2,
+                "quantity": 4,
+                "price": 246.73
+            },
+            {
+                "productId": 4,
+                "quantity": 4,
+                "price": 532.3
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "userId": 14,
+        "date": "2026-03-04",
+        "products": [
+            {
+                "productId": 1,
+                "quantity": 5,
+                "price": 562.83
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "userId": 15,
+        "date": "2025-05-07",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 3,
+                "price": 920.39
+            },
+            {
+                "productId": 8,
+                "quantity": 2,
+                "price": 905.91
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "userId": 7,
+        "date": "2025-09-02",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 3,
+                "price": 884.56
+            },
+            {
+                "productId": 5,
+                "quantity": 2,
+                "price": 790.1
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "userId": 9,
+        "date": "2026-01-10",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 5,
+                "price": 289.88
+            },
+            {
+                "productId": 2,
+                "quantity": 4,
+                "price": 211.86
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "userId": 11,
+        "date": "2025-08-26",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 1,
+                "price": 847.75
+            },
+            {
+                "productId": 2,
+                "quantity": 4,
+                "price": 617.55
+            },
+            {
+                "productId": 5,
+                "quantity": 5,
+                "price": 427.08
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "userId": 4,
+        "date": "2025-10-22",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 4,
+                "price": 276.03
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "userId": 19,
+        "date": "2025-09-23",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 1,
+                "price": 909.88
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "userId": 7,
+        "date": "2025-07-22",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 1,
+                "price": 103.86
+            },
+            {
+                "productId": 8,
+                "quantity": 2,
+                "price": 562.79
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "userId": 1,
+        "date": "2025-12-20",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 5,
+                "price": 324.14
+            },
+            {
+                "productId": 4,
+                "quantity": 1,
+                "price": 242.46
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "userId": 17,
+        "date": "2026-02-21",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 2,
+                "price": 288.91
+            },
+            {
+                "productId": 10,
+                "quantity": 4,
+                "price": 650.01
+            },
+            {
+                "productId": 9,
+                "quantity": 4,
+                "price": 507.68
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "userId": 14,
+        "date": "2025-09-14",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 2,
+                "price": 595.73
+            },
+            {
+                "productId": 6,
+                "quantity": 1,
+                "price": 554.93
+            },
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 114.47
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "userId": 17,
+        "date": "2025-11-10",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 2,
+                "price": 600.82
+            },
+            {
+                "productId": 10,
+                "quantity": 3,
+                "price": 106.18
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "userId": 12,
+        "date": "2025-09-06",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 5,
+                "price": 431.64
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "userId": 10,
+        "date": "2025-05-19",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 4,
+                "price": 711.5
+            },
+            {
+                "productId": 3,
+                "quantity": 4,
+                "price": 856.62
+            },
+            {
+                "productId": 9,
+                "quantity": 4,
+                "price": 557.17
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "userId": 2,
+        "date": "2025-12-01",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 3,
+                "price": 738.53
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "userId": 11,
+        "date": "2026-02-21",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 1,
+                "price": 965.97
+            },
+            {
+                "productId": 3,
+                "quantity": 2,
+                "price": 614.62
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "userId": 14,
+        "date": "2025-12-21",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 1,
+                "price": 675.01
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "userId": 19,
+        "date": "2026-04-05",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 2,
+                "price": 180.79
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "userId": 3,
+        "date": "2025-07-04",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 2,
+                "price": 846.21
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "userId": 13,
+        "date": "2025-08-28",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 3,
+                "price": 388.28
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "userId": 20,
+        "date": "2025-10-08",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 3,
+                "price": 873.43
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "userId": 2,
+        "date": "2026-01-09",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 3,
+                "price": 531.55
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "userId": 1,
+        "date": "2025-07-17",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 1,
+                "price": 243.99
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "userId": 18,
+        "date": "2025-07-15",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 4,
+                "price": 507.25
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "userId": 8,
+        "date": "2025-12-31",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 2,
+                "price": 388.94
+            },
+            {
+                "productId": 4,
+                "quantity": 1,
+                "price": 674.6
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "userId": 5,
+        "date": "2026-01-03",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 5,
+                "price": 342.69
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "userId": 7,
+        "date": "2025-11-11",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 2,
+                "price": 566.83
+            },
+            {
+                "productId": 10,
+                "quantity": 5,
+                "price": 139.5
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "userId": 12,
+        "date": "2025-04-14",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 5,
+                "price": 442.32
+            },
+            {
+                "productId": 6,
+                "quantity": 4,
+                "price": 656.99
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "userId": 19,
+        "date": "2025-06-09",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 5,
+                "price": 810.83
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "userId": 13,
+        "date": "2026-01-08",
+        "products": [
+            {
+                "productId": 10,
+                "quantity": 1,
+                "price": 767.0
+            },
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 261.64
+            },
+            {
+                "productId": 2,
+                "quantity": 1,
+                "price": 351.85
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "userId": 3,
+        "date": "2026-02-06",
+        "products": [
+            {
+                "productId": 6,
+                "quantity": 4,
+                "price": 755.28
+            },
+            {
+                "productId": 5,
+                "quantity": 2,
+                "price": 124.5
+            },
+            {
+                "productId": 7,
+                "quantity": 3,
+                "price": 730.3
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "userId": 2,
+        "date": "2025-08-09",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 5,
+                "price": 297.39
+            },
+            {
+                "productId": 6,
+                "quantity": 4,
+                "price": 610.28
+            },
+            {
+                "productId": 9,
+                "quantity": 2,
+                "price": 274.3
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "userId": 11,
+        "date": "2025-09-03",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 3,
+                "price": 132.49
+            },
+            {
+                "productId": 10,
+                "quantity": 5,
+                "price": 249.29
+            },
+            {
+                "productId": 10,
+                "quantity": 3,
+                "price": 347.91
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "userId": 7,
+        "date": "2026-03-22",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 3,
+                "price": 571.51
+            },
+            {
+                "productId": 7,
+                "quantity": 2,
+                "price": 825.19
+            },
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 532.28
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "userId": 18,
+        "date": "2025-07-30",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 5,
+                "price": 476.13
+            },
+            {
+                "productId": 6,
+                "quantity": 1,
+                "price": 702.0
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "userId": 14,
+        "date": "2025-04-08",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 4,
+                "price": 159.78
+            },
+            {
+                "productId": 1,
+                "quantity": 1,
+                "price": 542.7
+            },
+            {
+                "productId": 2,
+                "quantity": 1,
+                "price": 648.74
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "userId": 5,
+        "date": "2025-09-08",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 3,
+                "price": 284.72
+            },
+            {
+                "productId": 3,
+                "quantity": 3,
+                "price": 129.79
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "userId": 14,
+        "date": "2026-02-18",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 2,
+                "price": 664.8
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "userId": 14,
+        "date": "2025-09-06",
+        "products": [
+            {
+                "productId": 2,
+                "quantity": 1,
+                "price": 122.72
+            },
+            {
+                "productId": 9,
+                "quantity": 3,
+                "price": 997.33
+            },
+            {
+                "productId": 3,
+                "quantity": 1,
+                "price": 999.05
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "userId": 8,
+        "date": "2026-04-07",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 4,
+                "price": 393.82
+            },
+            {
+                "productId": 3,
+                "quantity": 5,
+                "price": 225.51
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "userId": 14,
+        "date": "2026-03-18",
+        "products": [
+            {
+                "productId": 5,
+                "quantity": 2,
+                "price": 299.8
+            },
+            {
+                "productId": 4,
+                "quantity": 3,
+                "price": 814.6
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "userId": 11,
+        "date": "2025-10-03",
+        "products": [
+            {
+                "productId": 4,
+                "quantity": 5,
+                "price": 948.34
+            },
+            {
+                "productId": 1,
+                "quantity": 5,
+                "price": 300.25
+            },
+            {
+                "productId": 6,
+                "quantity": 3,
+                "price": 171.19
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "userId": 18,
+        "date": "2025-09-07",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 2,
+                "price": 513.58
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "userId": 4,
+        "date": "2025-10-28",
+        "products": [
+            {
+                "productId": 3,
+                "quantity": 3,
+                "price": 950.29
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "userId": 19,
+        "date": "2025-09-04",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 5,
+                "price": 231.37
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "userId": 1,
+        "date": "2025-07-23",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 165.43
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "userId": 18,
+        "date": "2025-10-25",
+        "products": [
+            {
+                "productId": 8,
+                "quantity": 1,
+                "price": 212.53
+            },
+            {
+                "productId": 9,
+                "quantity": 4,
+                "price": 769.51
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "userId": 1,
+        "date": "2025-09-03",
+        "products": [
+            {
+                "productId": 9,
+                "quantity": 1,
+                "price": 357.96
+            },
+            {
+                "productId": 3,
+                "quantity": 3,
+                "price": 593.96
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "userId": 16,
+        "date": "2025-11-11",
+        "products": [
+            {
+                "productId": 7,
+                "quantity": 4,
+                "price": 494.51
+            },
+            {
+                "productId": 1,
+                "quantity": 5,
+                "price": 818.21
+            }
+        ]
+    }
+]
