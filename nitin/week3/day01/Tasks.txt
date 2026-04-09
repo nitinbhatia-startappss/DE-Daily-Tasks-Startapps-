@@ -1,0 +1,26 @@
+#1. Would a transactional database for an e-commerce site be OLTP or OLAP? Why?
+
+ans:- Transactional databases for an e-commerce site will always be OLTP (Online Transactional Databases)
+because these databases are built to store transactional data which requires faster write and update speeds. 
+OLTP databases are optimized for faster writes and updates.
+
+
+
+#2. What are the core differences between a data lake and a data warehouse?
+
+ans:- data warehouse can be described as a database which only stores structured data.
+these are also know as OLAP databases as they store only stuctured data. 
+users have to predefine schema in order to store the data .
+
+whereas datalake are the type of databases which can store any format of data ranging from structure, semi-structured, unstructured data.
+These are also known as OLAP databases as they store every format of data 
+in this user can store the data first and define schema afterwards.
+
+
+#3. Explain the purpose of a staging area in a data warehouse environment.
+
+
+ans:- In a data warehouse, a staging area can be defined as a temporary holding area where data is extracted from source systems (OLTP databases) 
+and placed in the staging area to be transformed and cleaned before being sent to the core data warehouse. 
+If we do not use a staging area and directly query the source systems, 
+the process becomes slow and unreliable as it puts unnecessary load on the production databases.
