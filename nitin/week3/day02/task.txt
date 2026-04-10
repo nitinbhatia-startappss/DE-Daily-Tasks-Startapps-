@@ -1,0 +1,37 @@
+Q1. Star Schema Design (Retail Sales)
+
+Fact Table: sales_fact - product_id - customer_id - date_id - store_id -
+sales_amount (measure) - quantity (measure)
+
+Dimension Tables:
+
+Product Dimension: - product_id - product_name - category
+
+Customer Dimension: - customer_id - customer_name - city
+
+Date Dimension: - date_id - day - month - year
+
+Store Dimension: - store_id - store_name - location
+
+A retail star schema has a central sales fact table
+connected to product, customer, date, and store dimension tables.
+
+Q2.  Star Schema vs Snowflake Schema
+
+Star schema is simple and fast but uses more storage
+
+Pros: - Simple design, Fast queries, Less joins
+Cons: - Data redundancy, More storage
+
+Snowflake Schema: snowflake schema is more normalized and efficient in storage but increases complexity and query time.
+
+Pros: - Less redundancy, Better organization
+Cons: - More complex, More joins (slower queries)
+
+
+Q3.  Degenerate Dimension
+
+A degenerate dimension is a dimension attribute stored in
+the fact table without a separate dimension table.
+
+Example: - order_id - invoice_number
