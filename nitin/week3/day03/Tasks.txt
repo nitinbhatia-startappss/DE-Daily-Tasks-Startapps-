@@ -1,0 +1,36 @@
+1. A customer moves to a new address. How would you handle this change using SCD Type 2?
+
+
+ans:- if we want to retain old history of the customer then we will use SCD type 2.
+STEP 1 :  i will UPDATE set the "end_date" to TODAY and "is_current" to  0
+STEP 2 :   INSERT a new row with the new address, a new start_date, end_date as NULL and is_current as 1
+
+2. When is it appropriate to use SCD Type 1?
+
+
+ans:- SCD TYPE 1 is best to use when we don't want history at all. 
+      if we just want to update and dont want to save the history,
+      then we will use SCD TYPE 1
+
+
+3. Describe the table structure needed to implement SCD Type 2.
+
+
+ans:- CREATE TABLE customer_dim (
+    surrogate_key INTEGER PRIMARY KEY AUTOINCREMENT,
+    customer_id   INTEGER,
+    name          TEXT,
+    city          TEXT,
+    start_date    TEXT,
+    end_date      TEXT,
+    is_current    INTEGER
+);
+
+surrogate_key:- unique identifier for each version of the record
+customer_id:- unique identifier for the customer which remain the same for all versions
+name:- used to store names of users
+city:- used to store names of locations 
+start_date:- date when started living at the location
+end_date:- date when user stopped living at the location
+is_current:- 1 for yes, 0 for no
+
